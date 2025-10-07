@@ -8,11 +8,11 @@ public class Main {
         cdll.insertNode(30,2);
         cdll.insertNode(40,3);
        cdll.traverse();
-        cdll.reverse();
-        cdll.search(30);
-        cdll.deleteNode(2);
-        cdll.traverse();
-        cdll.deleteCDLL();
+//        cdll.reverse();
+//        cdll.search(30);
+//        cdll.deleteNode(2);
+//        cdll.traverse();
+//        cdll.deleteCDLL();
         cdll.traverse();
     }
 }
