@@ -158,8 +158,7 @@ public class CircularDoublyLinkedList {
             }
             head=null;
             tail=null;
-            System.out.println("CDLL has been deleted!!");
+            System.out.println("CDLL has been deleted!!!");
         }
-
     }
 }
